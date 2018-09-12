@@ -1,0 +1,30 @@
+/*global style*/
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+  background-color: #ccc;
+}
+
+#registerForm {
+  margin-top: 200px;
+}
+
+#registerForm table {
+  margin: 0 auto;
+}
+
+.requiredField {
+  color: red;
+  margin-right: 5px;
+}
+
+.btns {
+  margin-top: 20px;
+  text-align: center;
+}
+input.text {
+	border:1px solid;
+}
+#login_login{
+	text-decoration: none;
+}
